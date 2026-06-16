@@ -1,2 +1,4 @@
 # Customer_Behavior_Analysis
-data analytics project showcasing customer behavior analysis using python, sql, and power bi
+
+This project analyzes customer shopping behavior using Python, PostgreSQL, and Power BI. It includes data cleaning, SQL analysis, interactive dashboards, and customer insights.
+
